@@ -6,6 +6,7 @@
   color: #ff43ea;
   position: relative;
 }
+
 .module::before {
   content: "";
   top: 0;
@@ -17,7 +18,10 @@
   background-size: cover;
   filter: grayscale(100%);
 }
+
 .module-inside {
   position: relative;
   font: bold 42px sans-serif;
 }
+
+/*# sourceMappingURL=styles.css.map */
